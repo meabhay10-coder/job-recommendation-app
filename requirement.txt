@@ -5,3 +5,7 @@ scikit-learn
 joblib
 PyPDF2
 python-docx
+nltk
+torch
+torchvision
+openpyxl
